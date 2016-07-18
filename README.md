@@ -1,2 +1,3 @@
 # hello-word
-A test project to hello git
+A test (notes) project to hello git
+so sleepy
